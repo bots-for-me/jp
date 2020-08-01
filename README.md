@@ -1,2 +1,2 @@
-# common
+# Joint purchases
 Joint purchases
